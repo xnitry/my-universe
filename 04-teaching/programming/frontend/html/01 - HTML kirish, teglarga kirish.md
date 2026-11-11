@@ -30,7 +30,7 @@ Ba’zi teglar esa yopilmaydi. Ularni toq (void) teglar deyiladi. Masalan:
 
 ```html
 <br>
-<img src="rasm.jpg" alt="Tasvir">
+<img>
 ```
 
 >`<br>` bu qator tushirish, `<img>` esa rasm qo’yish uchun ishlatiladi.
