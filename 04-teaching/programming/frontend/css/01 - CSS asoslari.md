@@ -90,7 +90,7 @@ Bugun eng ko’p ishlatiladigan dastlabki xususiyatlarni o’rganamiz:
 
 ```css
 h1 {
-  color: #1d2b3a;
+  color: red;
   font-size: 48px;
   text-align: center;
 }
